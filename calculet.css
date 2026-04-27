@@ -1,0 +1,36 @@
+#show{ background-image: url(phot1.avif);
+    background-repeat: no-repeat;
+    background-size:;
+    height: 120px;
+    width: 100%;
+    background-position: 15px 100px;
+}
+#ko{ background-image: url(photo4.avif);
+    background-repeat: no-repeat;
+    background-size: 80px 80px;
+    height: 120px;
+    width: 100%;
+    background-position: 15px 200px;
+    border-radius: 10px;
+}#koo{
+
+     background-image: url(premium_photo-1682125177822-63c27a3830ea.avif);
+    background-repeat: no-repeat;
+    background-size: 80px 80px;
+    height: 120px;
+    width: 100%;
+    background-position: 15px 300px;
+    background-color: antiquewhite;
+}
+#do{ 
+    background-repeat: no-repeat;
+    background-size: 80px 80px;
+    height:120px;
+    width: 100%;
+    background-position: 15px 15px;
+    cursor: pointer;
+   
+
+} <div id="koo" class="wo"><div><img src="premium_photo-1682125177822-63c27a3830ea.avif" alt="hh" class="im"></div>
+  <div>Brooks Ghost order amount: <i id="ace"></i>  <p>payment<i id="paym"></i></p></div></div> </div
+
